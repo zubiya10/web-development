@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Virat Kohli | The Run Machine</title>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Virat Kohli</h1>
+        <h2>The Run Machine of Indian Cricket</h2>
+    </header>
+
+    <!-- Bio Section -->
+    <section>
+        <h3>About Virat</h3>
+        <p>
+            Virat Kohli is an <strong>Indian international cricketer</strong> and former captain of the Indian national team. Known for his passion, discipline, and aggressive style of play, he is one of the most consistent batsmen of the modern era.
+        </p>
+    </section>
+
+    <!-- Education / Journey Section -->
+    <section>
+        <h3>Journey to Success</h3>
+        <p>
+            Virat started playing cricket at a very young age in <em>Delhi</em>.
